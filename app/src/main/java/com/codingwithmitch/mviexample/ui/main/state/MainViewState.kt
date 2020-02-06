@@ -8,4 +8,6 @@ data class MainViewState(
     var blogPosts: List<BlogPost>? = null,
     var user: User? = null
 
+//test
+
 )
